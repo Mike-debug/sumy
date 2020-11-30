@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="019aa6d7-beef-418a-8a3c-74c3775b1a7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/codeql-security-scan.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ossar-analysis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish-to-pypi.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitpod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/alternatives.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/how-to-add-new-language.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/summarizators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/chinese.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/czech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/english.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/french.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/german.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/hebrew.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/italian.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/japanese.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/korean.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/portuguese.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/slovak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/data/stopwords/spanish.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/evaluation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/evaluation/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/evaluation/content_based.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/evaluation/coselection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/evaluation/rouge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/dom/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/dom/_document.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/dom/_paragraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/dom/_sentence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/models/tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/nlp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/nlp/stemmers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/nlp/stemmers/czech.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/nlp/tokenizers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/parsers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/parsers/html.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/parsers/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/parsers/plaintext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/_summarizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/edmundson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/edmundson_cue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/edmundson_key.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/edmundson_location.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/edmundson_title.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/kl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/lex_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/lsa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/luhn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/reduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/sum_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/summarizers/text_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumy/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/data/articles/prevko_cz_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/data/articles/svd_converges.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/data/snippets/paragraphs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/data/snippets/prevko.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/data/stopwords/language.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_evaluation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_evaluation/test_evaluation_content_based.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_evaluation/test_evaluation_coselection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_evaluation/test_evaluation_rouge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_html_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_plaintext_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_stemmers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_edmundson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_kl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_lex_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_lsa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_luhn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_luhn_sentence_rating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_reduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_sum_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_summarizers/test_text_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_tokenizers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_utils/test_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_utils/test_unicode_compatible_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_utils/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l0SezJYJApOEqG4dAZ4efkLraY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sumy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="019aa6d7-beef-418a-8a3c-74c3775b1a7c" name="Default Changelist" comment="" />
+      <created>1606732614151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606732614151</updated>
+      <workItem from="1606732624918" duration="5890000" />
+      <workItem from="1606747052681" duration="1941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1879" height="494" key="GridCell.Tab.0.bottom" timestamp="1606748996848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="494" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606748996848" />
+    <state width="1879" height="494" key="GridCell.Tab.0.center" timestamp="1606748996847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="494" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606748996847" />
+    <state width="1879" height="494" key="GridCell.Tab.0.left" timestamp="1606748996847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="494" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606748996847" />
+    <state width="1879" height="494" key="GridCell.Tab.0.right" timestamp="1606748996848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="494" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606748996848" />
+    <state x="491" y="164" key="SettingsEditor" timestamp="1606733628404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606733628404" />
+    <state x="614" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1606747053257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606747053257" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sumy$test.coverage" NAME="test Coverage Results" MODIFIED="1606748970441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
